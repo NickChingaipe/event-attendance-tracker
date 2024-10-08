@@ -18,8 +18,8 @@ The Event Attendance Tracker is a web application designed to help users manage 
 
 - **Front-End**: HTML, CSS, JavaScript
 - **Back-End**: Node.js, Express
-- **Database**: MongoDB (or Firebase)
-- **Deployment**: Heroku, Vercel, or Netlify
+- **Database**: MongoDB 
+- **Deployment**: Netlify
 
 ## Getting Started
 
